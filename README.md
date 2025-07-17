@@ -1,8 +1,6 @@
 # Aurelius Protocol Whitepaper
 
-This repository contains the official whitepaper for the Aurelius protocol.
-
-📄 [Download the Whitepaper (v1)](./aurelius_whitepaper_pt1.pdf)
+This repository contains the official whitepaper (part 1) for the Aurelius protocol.
 
 ---
 
