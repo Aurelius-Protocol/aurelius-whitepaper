@@ -2,7 +2,7 @@
 
 This repository contains the official whitepaper (part 1) for the Aurelius protocol.
 
-📄 **[Download the Whitepaper (pt. 1)](./aurelius, a peer-to-peer alignment protocol.pdf)**
+📄 **[Download the Whitepaper (pt. 1)](Aurelius, A Peer-to-Peer Alignment Protocol.pdf)**
 
 ---
 
